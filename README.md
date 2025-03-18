@@ -5,7 +5,7 @@ I'm a Software Engineer 🚀 based in Seville, Spain 🇪🇸.
 I am passionate about technology, software development, and science. I am always eager to learn something new.
 
 Currently:
-- Working at University of Seville 🎓 as a technical research staff.
+- Working at University of Seville 🎓 as research staff.
 - Studing a master’s degree in Software Engineering: Cloud, Data, and IT Management at University of Seville 🎓.
 
 Besides tech stuff, I love physics ⚛️, cooking 🧑🏽‍🍳 and watching series & movies🍿.
