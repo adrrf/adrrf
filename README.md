@@ -13,7 +13,7 @@ Besides tech stuff, I love physics ⚛️, cooking 🧑🏽‍🍳 and watching 
 ```javascript
 const adrianRomero = {
   pronouns: "he" | "him",
-  code: [".js", ".ts", ".py", ".java", ".rs"],
+  code: [".js", ".ts", ".py", ".java", ".rs", ".go"],
   tools: ["react", "astro", "nest.js", "express", "docker", "kubernetes", "git", "github actions", "latex"],
   cloudProviders: ["aws", "azure"],
   interests: ["backend", "devops", "cloud computing", "quantum computing", "machine learning"]
